@@ -1,10 +1,8 @@
 # E-commerce Product Recommender
 
-# E-commerce Product Recommender
-
 ## Overview
 
-This repository contains a human-written, bug-free implementation of an **E-commerce Product Recommender System**. The system provides personalized product recommendations along with natural language explanations generated using an LLM. The project is designed for demonstration and learning purposes and can be extended for real-world applications.
+This repository contains an **E-commerce Product Recommender System**. The system provides personalized product recommendations along with natural language explanations generated using an LLM. The project is designed for demonstration and learning purposes and can be extended for real-world applications.
 
 ## Features
 
@@ -102,7 +100,3 @@ npm run dev
 * Enhance explanation diversity and conduct A/B testing on LLM prompts.
 * Add caching and asynchronous queues for LLM calls to optimize performance.
 
-## Author
-
-**Name:** Digisha Adhaduk
-**Registration No:** 22BCE11330
